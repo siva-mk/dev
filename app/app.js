@@ -49,8 +49,8 @@
   });
 
  var gems = [
-    { id:0, name: 'Azurite', price: 2.95 },
-    { id:1, name: 'Bloodstone', price: 5.25 },
-    { id:2, name: 'Zircon', price: 3.95 },
+    { id:0, name: 'Opal', price: 2.95 },
+    { id:1, name: 'Pearl', price: 5.25 },
+    { id:2, name: 'Diamond', price: 3.95 },
   ];
 })();
